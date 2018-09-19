@@ -20,3 +20,5 @@ On the Start menu, click Control Panel.
 # In Administrative Tools, click Data Sources (ODBC).
 
 For connections to Azure Active Directory Authentication for SQL Database install the latest driver, such as ODBC Driver 13.1 for SQL Server.
+
+//////////////////////////////////////////////////////////////////
